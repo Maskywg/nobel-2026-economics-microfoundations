@@ -1,0 +1,130 @@
+[
+  {
+    "file": "hall-official.jpg",
+    "url": "https://www.nobelprize.org/uploads/2026/10/1-2_3-6acc90cbea526-scaled.jpg",
+    "credit": "Niklas Elmehed © Nobel Prize Outreach",
+    "terms": "https://www.nobelprize.org/about/copyright-information/",
+    "use": "Non-commercial educational use with attribution"
+  },
+  {
+    "file": "woodford.jpg",
+    "url": "https://www.nobelprize.org/uploads/2026/10/2-2_3-6acc90d2d849d-scaled.jpg",
+    "credit": "Niklas Elmehed © Nobel Prize Outreach",
+    "terms": "https://www.nobelprize.org/about/copyright-information/",
+    "use": "Non-commercial educational use with attribution"
+  },
+  {
+    "file": "cycle.jpg",
+    "url": "https://www.nobelprize.org/uploads/2026/10/fig1_ek_en_26_copy.jpg",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "terms": "https://www.nobelprize.org/about/copyright-information/",
+    "use": "Non-commercial educational use with attribution"
+  },
+  {
+    "file": "foundation.jpg",
+    "url": "https://www.nobelprize.org/uploads/2026/10/fig2_ek_en_26_copy.jpg",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "terms": "https://www.nobelprize.org/about/copyright-information/",
+    "use": "Non-commercial educational use with attribution"
+  },
+  {
+    "file": "consumption.jpg",
+    "url": "https://www.nobelprize.org/uploads/2026/10/fig3_ek_en_26_copy.jpg",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "terms": "https://www.nobelprize.org/about/copyright-information/",
+    "use": "Non-commercial educational use with attribution"
+  },
+  {
+    "file": "balance.jpg",
+    "url": "https://www.nobelprize.org/uploads/2026/10/fig4_ek_en_26_copy.jpg",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "terms": "https://www.nobelprize.org/about/copyright-information/",
+    "use": "Non-commercial educational use with attribution"
+  },
+  {
+    "file": "hall-photo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Hall-Robert_Headshot.png",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-05-22 02:41:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hall-Robert Headshot",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "People of California|CC-Zero|Self-published work|Images with extracted images",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Robert_Hall_(economist)\" class=\"extiw\" title=\"en:Robert Hall (economist)\">Robert Hall (economist)</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2005",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bellhorn89&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bellhorn89 (page does not exist)\">Bellhorn89</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "file": "columbia.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Low_Memorial_Library_Columbia_University_NYC_2.jpg",
+    "author": "Андрей Романенко",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Low_Memorial_Library_Columbia_University_NYC_2.jpg"
+  }
+]
