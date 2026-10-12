@@ -6,3 +6,5 @@
 .laureates img{object-fit:contain;object-position:center;border-radius:14px;padding:12px;background:#f1eadb}.laureates figcaption a{font-size:14px}
 
 .story-photo img{height:auto;max-height:none;object-fit:contain}
+
+.conclusion{background:#eee3ce;border:2px solid #b5914d;border-radius:18px;margin:12px 0 35px}.conclusion h2{color:#782b32}.conclusion-lead{font-size:22px}.conclusion-impact{border-left:4px solid #782b32;padding-left:20px}@media(max-width:600px){.conclusion{margin:10px 12px 30px}.conclusion-lead{font-size:19px}}
