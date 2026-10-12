@@ -4,3 +4,5 @@
 #music-toggle{position:fixed;right:18px;bottom:80px;z-index:6;background:#782b32;color:#fff8e8;border:2px solid #b5914d;border-radius:8px;padding:11px 15px;font-size:14px;min-height:44px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}@media(max-width:600px){#music-toggle{right:10px;bottom:72px}}
 
 .laureates img{object-fit:contain;object-position:center;border-radius:14px;padding:12px;background:#f1eadb}.laureates figcaption a{font-size:14px}
+
+.story-photo img{height:auto;max-height:none;object-fit:contain}
